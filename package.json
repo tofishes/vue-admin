@@ -1,0 +1,28 @@
+{
+  "name": "vue-admin",
+  "version": "1.0.0",
+  "description": "admin system base on vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tofishes/vue-admin.git"
+  },
+  "keywords": [
+    "vuejs",
+    "admin"
+  ],
+  "author": "tofishes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tofishes/vue-admin/issues"
+  },
+  "homepage": "https://github.com/tofishes/vue-admin#readme",
+  "dependencies": {
+    "element-ui": "^1.2.4",
+    "route-coc": "^1.2.2",
+    "vue": "^2.2.4"
+  }
+}
